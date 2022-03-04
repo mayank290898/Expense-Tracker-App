@@ -1,0 +1,16 @@
+.expenses {
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    background-color: #1e1d1e;
+    padding: 15px 5px;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+.white-font {
+    color: white;
+}
